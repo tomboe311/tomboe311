@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Boe! 👋
+
+[Facts about me](https://github.com/tomboe311/About-Boe/blob/master/README.md).
 
 <!--
 **tomboe311/tomboe311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
